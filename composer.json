@@ -1,0 +1,21 @@
+{
+    "name": "deri/promotheus",
+    "description": "PHP - IHS BPJS Bridger",
+    "type": "project",
+    "license": "Apache 2.0",
+    "autoload": {
+        "psr-4": {
+            "Deri\\Promotheus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tripletTrouble"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "nullpunkt/lz-string-php": "^1.3"
+    }
+}
