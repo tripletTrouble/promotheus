@@ -2,9 +2,9 @@
 
 return [
     'rsam' => [
-        'consid' => 5227,
-        'conspas' => '0mIE96752D',
-        'userkey' => '412d9d84c2fcecf2b90424048134d773',
-        'env' => 'development'
+        'consid' => 29546,
+        'conspas' => '1xL5FA903B',
+        'userkey' => 'c424340c8267de92ad4663018405a3c1a1956a49ca079ab16',
+        'env' => 'production'
     ]
 ];
